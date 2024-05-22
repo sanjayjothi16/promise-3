@@ -1,0 +1,38 @@
+body {
+    background-image: url('./LIB.jpg'); /* Replace 'background.jpg' with your image file path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This keeps the background image fixed while scrolling */
+    /* You can adjust other background properties as needed */
+}
+/* Your existing CSS styles */
+.container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.5);
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            line-height: 1.6;
+        }
+h1 {
+    text-align: center;
+    color: white; /* Changed text color to white */
+}
+p {
+    line-height: 1.6;
+    color: solid black; /* Changed text color to white */
+}
+html {  
+    color: white; /* Set text color to white */
+    text-shadow:white;
+}
+
+.container {
+    background-color:rgba(206, 197, 197, 0.5)
+}
